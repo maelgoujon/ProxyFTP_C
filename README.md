@@ -14,9 +14,9 @@ Plusieurs connexions clients simultanées.
 Mode actif côté client et mode passif côté serveur.
 
 # Details :
-// GOUJON Maël, DARDET Lenny
-// Proxy FTP entre un client Actif et un serveur FTP Passif
-// compatible avec les commandes : USER, PASS, QUIT, PORT, FEAT
-// Repond à ls pwd et cd
-// testé avec vsftpd et les serveurs ftp de Debian
-// 2024-IUT
+- GOUJON Maël, DARDET Lenny
+- Proxy FTP entre un client Actif et un serveur FTP Passif
+- compatible avec les commandes : USER, PASS, QUIT, PORT, FEAT
+- Repond à ls pwd et cd
+- testé avec vsftpd et les serveurs ftp de Debian
+- 2024-IUT
